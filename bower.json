@@ -1,0 +1,20 @@
+{
+  "name": "d3-import",
+  "description": "Common import for DigElements that use d3 as a dependency.",
+  "version": "1.0.0",
+  "authors": ["Next Century"],
+  "license": "Apache-2.0",
+  "keywords": [
+    "dig",
+    "d3"
+  ],
+  "main": "d3.html",
+  "homepage": "https://github.com/DigElements/d3-import/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "d3": "~3.5.10"
+  }
+}
